@@ -50,10 +50,12 @@
 }
 
 .card-body-stars.u-clearfix {
+  display: flex;
   list-style: none;
   padding: 0;
 }
 
 .card-body-stars.u-clearfix li {
+  display: flex;
   margin-right: 0px;
 }
