@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.film-card {
+  display: flex;
+  width: 300px;
+  height: 200px;
+  background-color: #717171;
+  border: 1px solid #ff0000;
+}
+
+.card-body-stars.u-clearfix {
+  list-style: none;
+  padding: 0;
+}
+
+.card-body-stars.u-clearfix li {
+  margin-right: 0px;
+}
